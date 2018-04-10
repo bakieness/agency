@@ -1,0 +1,33 @@
+.hero{
+	background-image: url("../images/hero.png");
+	background-size: cover;
+	background-position: 50% 50%;
+	height: 100vh;
+	@include breakpoint(md){
+		background-repeat: round;
+		background-position: unset;
+	}
+	.heading{
+		position: relative;
+		top: 30%;
+		padding: 0 15px;
+		@include breakpoint(md){
+			padding: 0;
+		}
+	}
+	h1{
+		font-size: $heading1;
+		text-align: center;
+		margin: 0;
+		margin-bottom: 15px;
+	}
+	p{
+		font-size: $font-body;
+		text-align: center;
+		color: #949494;
+	}
+	.cta{
+		position: relative;
+		top: 35%;
+	}
+}

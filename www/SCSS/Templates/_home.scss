@@ -1,0 +1,229 @@
+.design-code{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	.imgs{
+		img{
+			height: 500px;
+			width: 100%;
+			float: left;
+			@include breakpoint(md){
+				width: 50%;
+			}
+		}
+	}
+	.container{
+		z-index: 2;
+		position: absolute;
+		left: 0;
+		right: 0;
+	}
+	.design, .code{
+		height: 500px;
+		float: left;
+		color: $colorWhite;
+		h1, p, .cta{
+			margin-right: 0;
+			margin-left: 75px;
+			@include breakpoint(md){
+				margin-right: 75px;
+				margin-left: 0;
+			}
+		}
+		h1{
+			margin-top: 30%;
+			font-weight: lighter;
+		}
+		p{
+			font-size: $font-body;
+			line-height: 30px;
+		}
+	}
+	.code{
+		
+		h1, p, .cta{
+			margin-right: 0;
+			margin-left: 75px;
+		}
+	}
+}
+
+.services{
+	max-width: 1200px;
+	margin: 0 auto;
+	clear: both;
+	h1{
+		font-size: $heading1;
+		text-align: center;
+		margin-top: 90px;
+		margin-bottom: 70px;
+	}
+	.service{
+		margin: 60px 0;
+		height: 140px;
+		@include breakpoint(sm){
+			height: 160px;
+		}
+		@include breakpoint(md){
+			height: auto;
+		}
+		img{
+			float: left;
+			width: 25%;
+		}
+		.info{
+			float: left;
+			width: 75%;
+			padding-left: 25px;
+			h2{
+				font-size: $heading2;
+				margin-bottom: 20px;
+			}
+			p{
+				font-size: $font-body;
+				line-height: 1.5;
+			}
+		}
+	}
+}
+
+.portfolio{
+	position: relative;
+	width: 100%;
+	height: 650px;
+	overflow: hidden;
+	.items{
+		margin: 50px 0;
+		height: 550px;
+		.item{
+			height: 500px;
+			width: calc(100% / 3 );
+			position: relative;
+			top: 5%;
+			//transition: all 1s;
+			&.left, &.center, &.right{
+				position: absolute;
+				background-position: 50% 50%;
+				background-size: cover;
+			}
+			&.left, &.right{
+				top: 75px;
+				.info{
+					display: none;
+				}
+			}
+			&.left{
+				left: 0%;
+				right: calc(100% - (100% / 3) );
+			}
+			&.right{
+				right: 0%;
+				left: calc(100% - (100% / 3) );
+			}
+			&.center{
+				width: 100%;
+				height: 550px;
+				z-index: 2;
+				margin: 0 auto;
+				top: auto;
+				left: 0%;
+				right: 0%;
+				box-shadow: 0 0 30px 10px rgba(0, 0, 0, 0.4);
+				@include breakpoint(sm){
+					width: 70%;
+				}
+				@include breakpoint(md){
+					width: 40%;
+				}
+				.info{
+					margin: 0 auto;
+					z-index: 2;
+					text-align: center;
+					position: absolute;
+					left: 0;
+					right: 0;
+					height: 550px;
+					color: white;
+					background-color: rgba(0, 0, 0, 0.4);
+					h1{
+						margin-top: 25%;
+					}
+					p{
+						margin: 20px 100px;
+						font-size: $font-body;
+						line-height: 1.5;
+					}
+				}
+			}
+		}
+		.item-1{
+			background-image: url(../images/portfolio1.png);
+		}
+		.item-2{
+			background-image: url(../images/portfolio2.png);
+		}
+		.item-3{
+			background-image: url(../images/portfolio3.png);
+		}
+	}
+	.controls{
+		position: absolute;
+		top: 45%;
+		z-index: 3;
+		width: 100%;
+		.left, .right{
+			width: 80px;
+    			font-size: 80px;
+    			text-align: center;
+    			background-color: white;
+    			float: left;
+		}
+		.right{
+			float: right;
+		}
+	}
+}
+
+.about{
+	padding-bottom: 100px;
+	background-image: url("../images/aboutBG.png");
+	background-size: cover;
+	background-position: 50% 50%; 
+	.desc{
+		width: 80%;
+		margin: 20px auto;
+		padding: 0;
+		@include breakpoint(md){
+			width: 40%;
+		}
+	}
+	.team{
+		position: relative;
+		top: 10%;
+		padding-top: 100px;
+	}
+	img{
+		border-radius: 50%;
+		display: block;
+		margin: 0 auto 20px auto;
+	}
+	h1, h3, p{
+		text-align: center;
+		color: $colorWhite;
+	}
+	h1{
+		font-size: $heading1;
+		padding-top: 90px;
+	}
+	p{
+		color: $colorGrey;
+		font-size: $font-body;
+		line-height: 1.5;
+	}
+}
+
+.map{
+	img{
+		width: 100%;
+	}
+}
