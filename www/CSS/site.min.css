@@ -18,7 +18,7 @@ img{width:auto}
 }.cta{border-radius:50px;background-color:#49007c;background-image:-o-linear-gradient(left,#49007c 0,#e70088 100%);background:linear-gradient(to right,#49007c 0,#e70088 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='$from',endColorstr='$to',GradientType=1);width:205px;height:50px;text-align:center;line-height:50px;margin:0 auto;margin-top:20px}
 .cta a{color:#fff;font-size:18px}
 .cta a:hover{text-decoration:none}
-.cta:hover{background-color:#e70088;background-image:-o-linear-gradient(left,#e70088 0,#49007c 100%);background:linear-gradient(to right,#e70088 0,#49007c 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='$from',endColorstr='$to',GradientType=1)}
+.cta:hover{background-color:#49007c;background-image:-o-linear-gradient(left,#49007c 0,#49007c 100%);background:linear-gradient(to right,#49007c 0,#49007c 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='$from',endColorstr='$to',GradientType=1)}
 .hero{background-image:url("../images/hero.png");background-size:cover;background-position:50% 50%;height:100vh}
 @media only screen and (min-width:992px){.hero{background-repeat:round;background-position:unset}
 }.hero .heading{position:relative;top:30%;padding:0 15px}
@@ -98,364 +98,364 @@ footer p{color:#aaa;text-align:center}
 .about p{color:#888;font-size:18px;line-height:1.5}
 .map img{width:100%}
 .glitch{font-size:100px;color:black;position:relative}
-@keyframes example-one-anim-1{0%{clip:rect(61px,500px,63px,0)}
+@keyframes example-one-anim-1{0%{clip:rect(90px,500px,83px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-4%{clip:rect(5px,500px,54px,0)}
+4%{clip:rect(96px,500px,56px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-8%{clip:rect(44px,500px,81px,0)}
+8%{clip:rect(74px,500px,99px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-12%{clip:rect(12px,500px,88px,0)}
+12%{clip:rect(53px,500px,20px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-16%{clip:rect(58px,500px,57px,0)}
+16%{clip:rect(79px,500px,62px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-20%{clip:rect(90px,500px,42px,0)}
+20%{clip:rect(4px,500px,56px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-24%{clip:rect(70px,500px,44px,0)}
+24%{clip:rect(78px,500px,22px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-28%{clip:rect(95px,500px,3px,0)}
+28%{clip:rect(57px,500px,75px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-32%{clip:rect(68px,500px,1px,0)}
+32%{clip:rect(29px,500px,65px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-36%{clip:rect(80px,500px,76px,0)}
+36%{clip:rect(25px,500px,24px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-40%{clip:rect(48px,500px,60px,0)}
+40%{clip:rect(26px,500px,100px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-44%{clip:rect(33px,500px,89px,0)}
+44%{clip:rect(24px,500px,1px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-48%{clip:rect(87px,500px,76px,0)}
+48%{clip:rect(95px,500px,3px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-52%{clip:rect(58px,500px,78px,0)}
+52%{clip:rect(11px,500px,86px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-56%{clip:rect(9px,500px,60px,0)}
+56%{clip:rect(16px,500px,51px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-60%{clip:rect(67px,500px,40px,0)}
+60%{clip:rect(81px,500px,26px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-64%{clip:rect(41px,500px,15px,0)}
+64%{clip:rect(87px,500px,49px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-68%{clip:rect(99px,500px,77px,0)}
+68%{clip:rect(18px,500px,59px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-72%{clip:rect(31px,500px,57px,0)}
+72%{clip:rect(78px,500px,63px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-76%{clip:rect(62px,500px,55px,0)}
+76%{clip:rect(28px,500px,11px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-80%{clip:rect(71px,500px,72px,0)}
+80%{clip:rect(96px,500px,70px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-84%{clip:rect(36px,500px,83px,0)}
+84%{clip:rect(81px,500px,56px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-88%{clip:rect(21px,500px,49px,0)}
+88%{clip:rect(18px,500px,82px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-92%{clip:rect(48px,500px,3px,0)}
+92%{clip:rect(32px,500px,87px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-96%{clip:rect(33px,500px,51px,0)}
+96%{clip:rect(74px,500px,45px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-100%{clip:rect(3px,500px,53px,0)}
+100%{clip:rect(23px,500px,80px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-}@keyframes example-one-anim-2{0{clip:rect(87px,500px,29px,0)}
+}@keyframes example-one-anim-2{0{clip:rect(16px,500px,42px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-4%{clip:rect(49px,500px,5px,0)}
+4%{clip:rect(15px,500px,55px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-8%{clip:rect(2px,500px,29px,0)}
+8%{clip:rect(44px,500px,2px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-12%{clip:rect(23px,500px,17px,0)}
+12%{clip:rect(68px,500px,79px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-16%{clip:rect(93px,500px,9px,0)}
+16%{clip:rect(23px,500px,99px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-20%{clip:rect(29px,500px,10px,0)}
+20%{clip:rect(82px,500px,55px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-24%{clip:rect(27px,500px,67px,0)}
+24%{clip:rect(58px,500px,54px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-28%{clip:rect(31px,500px,19px,0)}
+28%{clip:rect(74px,500px,50px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-32%{clip:rect(38px,500px,25px,0)}
+32%{clip:rect(43px,500px,4px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-36%{clip:rect(38px,500px,18px,0)}
+36%{clip:rect(46px,500px,21px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-40%{clip:rect(28px,500px,94px,0)}
+40%{clip:rect(58px,500px,45px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-44%{clip:rect(73px,500px,10px,0)}
+44%{clip:rect(7px,500px,9px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-48%{clip:rect(100px,500px,51px,0)}
+48%{clip:rect(67px,500px,73px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-52%{clip:rect(49px,500px,35px,0)}
+52%{clip:rect(17px,500px,28px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-56%{clip:rect(36px,500px,67px,0)}
+56%{clip:rect(75px,500px,4px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-60%{clip:rect(18px,500px,99px,0)}
+60%{clip:rect(64px,500px,43px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-64%{clip:rect(39px,500px,28px,0)}
+64%{clip:rect(91px,500px,94px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-68%{clip:rect(6px,500px,98px,0)}
+68%{clip:rect(67px,500px,24px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-72%{clip:rect(79px,500px,67px,0)}
+72%{clip:rect(44px,500px,99px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-76%{clip:rect(71px,500px,63px,0)}
+76%{clip:rect(72px,500px,1px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-80%{clip:rect(3px,500px,71px,0)}
+80%{clip:rect(49px,500px,3px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-84%{clip:rect(90px,500px,15px,0)}
+84%{clip:rect(8px,500px,62px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-88%{clip:rect(73px,500px,23px,0)}
+88%{clip:rect(9px,500px,37px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-92%{clip:rect(97px,500px,75px,0)}
+92%{clip:rect(73px,500px,19px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-96%{clip:rect(52px,500px,50px,0)}
+96%{clip:rect(93px,500px,42px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
 69%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
 70%{transform:scaleX(1.5) scaleY(0.2) skewX(80deg);color:green}
 71%{transform:scaleX(1) scaleY(1) skewX(0);color:black}
-100%{clip:rect(48px,500px,88px,0)}
+100%{clip:rect(61px,500px,77px,0)}
 52%{transform:scaleX(1) scaleY(1) skewX(0)}
 53%{transform:scaleX(3) scaleY(0.2) skewX(-60deg)}
 54%{transform:scaleX(1) scaleY(1) skewX(0)}
